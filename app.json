@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "FlapWorld",
+    "slug": "flapworld",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#8ad4ff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.flapworld.app"
+    },
+    "android": {
+      "package": "com.flapworld.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#8ad4ff"
+      }
+    }
+  }
+}
